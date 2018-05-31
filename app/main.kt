@@ -8,4 +8,5 @@ fun main(args: Array<String>)
 
 	println("hello")
 	println(maxN(a, b, c))
+	println(minN(a, b, c))
 }
