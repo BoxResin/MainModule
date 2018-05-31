@@ -12,3 +12,8 @@ fun min3(a: Int, b: Int, c: Int)
 {
 	return Math.min(a, Math.min(b, c))
 }
+
+fun maxN(varargs nums: Int)
+{
+	return nums.max()
+}
